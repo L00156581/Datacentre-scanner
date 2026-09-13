@@ -1,0 +1,25 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local Lab Artifacts & Security Evidence Logs
+# Prevents accidental leakage of assessment data to the public repo
+outputs/
+*.nmap
+*.xml
+*.gnmap
+*.log
+
+# Virtual Hard Disks and VM Backups (If stored locally in repo path)
+*.vhd
+*.vhdx
+*.iso
